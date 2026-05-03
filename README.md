@@ -14,7 +14,7 @@ The project includes:
 
 ##  Tasks Description
 
-### 🔹 Task 1: Compare Server Headers
+###  Task 1: Compare Server Headers
 
 - Compare server headers from:
   - Naver
@@ -22,7 +22,7 @@ The project includes:
 
 ---
 
-### 🔹 Task 2: JSON → DataFrame
+###  Task 2: JSON → DataFrame
 
 - Load data from:
   https://jsonplaceholder.typicode.com/users
@@ -31,7 +31,7 @@ The project includes:
 
 ---
 
-### 🔹 Task 3: Filter & Save Data
+###  Task 3: Filter & Save Data
 
 - Load data from:
   https://jsonplaceholder.typicode.com/posts
@@ -40,7 +40,7 @@ The project includes:
 
 ---
 
-### 🔹 Task 4: API + Gradio UI
+###  Task 4: API + Gradio UI
 
 - Fetch data from:
   https://jsonplaceholder.typicode.com/posts
@@ -53,7 +53,7 @@ The project includes:
   
 ---
 
-###🔹 Task 5: Data Analysis Project
+### Task 5: Data Analysis Project
 
 - Download 3 datasets (Seoul bike data)
 - Merge datasets
@@ -62,7 +62,7 @@ The project includes:
 
 ---
 
-###🔹 Task 6: Gemini API (AI Integration)
+### Task 6: Gemini API (AI Integration)
 
 Create translation UI
 Translate Task 7 text
